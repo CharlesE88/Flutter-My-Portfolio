@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:dots_indicator/dots_indicator.dart';
+import 'package:introduction_screen/introduction_screen.dart';
 
 void main() => runApp(MyApp());
 
